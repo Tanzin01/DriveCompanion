@@ -10,3 +10,6 @@ https://github.com/Tanzin01/DriveCompanion/blob/main/app-debug.apk
 
 
 https://github.com/Tanzin01/DriveCompanion/blob/main/DriveDroid%20Companion_1.0.apk
+
+*standalone comple
+https://github.com/Tanzin01/DriveCompanion/releases/download/v.0001/app-debug.apk
