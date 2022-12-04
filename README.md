@@ -6,12 +6,12 @@
 
 **Or**
 
-1.Copy paste your iso/img "full file path"(i.e /storage/emulated/0/MyImage.iso ,considering your .iso file is in phone's "Internal storage")
+1.Copy paste your iso/img "full file path"
+(i.e /storage/emulated/0/MyImage.iso ,considering your .iso file is in phone's "Internal storage")
 
 2. Click run as cdrom
 
 3.Connect your phone with pc via usb cable & do your stuff.
-[*Dont touch start button]
 
 4. After done using, you may click fix button. It revert all changes made to your device
 
