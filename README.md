@@ -19,7 +19,7 @@
 
 
 
-[p.s Check release for download]
+
 
 
 DriveCompanion is a complement app for DriveDroid. It will try to make DriveDroid(dd) work.   
