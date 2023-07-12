@@ -5,7 +5,7 @@
    https://www.apkmirror.com/apk/softwarebakery/drivedroid/
    [ A updatw would be cool]
    
-2)Boot PC: [android 9+]
+2. Boot PC: [android 9+]
 sites: https://github.com/SoulForeverInPeace/Boot-PC
 (semi open source?)
 
