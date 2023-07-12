@@ -1,3 +1,18 @@
+[ Last edit on this page:  there are now better options to boot pc via android. lemme add some-
+
+1) Drivedroid[till android 9]:
+   sites: https://www.drivedroid.io/ (official)
+   https://www.apkmirror.com/apk/softwarebakery/drivedroid/
+   [ A updatw would be cool]
+   
+2)Boot PC: [android 9+]
+sites: https://github.com/SoulForeverInPeace/Boot-PC
+(semi open source?)
+
+
+3)
+
+
 **How to use-**
 
 **Either**
@@ -23,7 +38,7 @@
 
 
 DriveCompanion is a complement app for DriveDroid. It will try to make DriveDroid(dd) work.   
-
+e
 Tested on android10 & android12. The common line, use at your own risk.
 https://github.com/Tanzin01/DriveCompanion/blob/main/app-debug.apk
 
