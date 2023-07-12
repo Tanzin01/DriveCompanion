@@ -10,7 +10,8 @@ sites: https://github.com/SoulForeverInPeace/Boot-PC
 (semi open source?)
 
 
-3)
+3) Phonesticks[ unknown, may be till a10] sites: https://github.com/dratini0/phonestick
+  (you need to compile)
 
 
 **How to use-**
